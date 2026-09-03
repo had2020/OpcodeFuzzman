@@ -45,7 +45,9 @@ struct VirtualMachine {
   int reg1;
 };
 
+
 int main() { 
+  
 
   return 0;
 }
